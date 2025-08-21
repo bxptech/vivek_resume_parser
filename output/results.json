@@ -1,0 +1,41 @@
+[
+    {
+        "name": "JADA VIVEK",
+        "file": "jada_vivek_latest_resume.pdf",
+        "role": "ml engineer",
+        "experience_years": 0.1,
+        "skills_matched": [
+            "Python",
+            "SQL",
+            "ML"
+        ],
+        "score": 90,
+        "status": "\u2705 Selected"
+    },
+    {
+        "name": "JADA VIVEK",
+        "file": "Jada_Vivek_Updated_Resume.pdf",
+        "role": "ml engineer",
+        "experience_years": 0.2,
+        "skills_matched": [
+            "Python",
+            "SQL",
+            "ML"
+        ],
+        "score": 90,
+        "status": "\u2705 Selected"
+    },
+    {
+        "name": "JADA VIVEK",
+        "file": "my_updated_resume-1.pdf",
+        "role": "ml engineer",
+        "experience_years": 0.0,
+        "skills_matched": [
+            "Python",
+            "SQL",
+            "ML"
+        ],
+        "score": 90,
+        "status": "\u2705 Selected"
+    }
+]
